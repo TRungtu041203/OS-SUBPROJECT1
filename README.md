@@ -1,2 +1,3 @@
-# OS-SUBPROJECT1
-Chu Quang Tung - 20213594 
+# OS_assignment
+Assignment 1: Advanced scheduler
+Assignment 2: Argument passing
